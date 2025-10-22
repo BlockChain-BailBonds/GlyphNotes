@@ -1,3 +1,7 @@
+# GlyphNotes ARC-AGI 2 Solver
+
+See [docs/ARC_AGI2.md](docs/ARC_AGI2.md) for architecture, usage, and extension guidance for the new agentic system.
+
 glyphNotes • ALL‑IN‑ONE Agent + Weights + Checkpoints + Container
 Storage: No · GGUFs: 0
 Bind storage

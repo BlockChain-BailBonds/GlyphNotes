@@ -1,0 +1,15 @@
+[project]
+name = "arcagi2"
+version = "0.1.0"
+description = "Agentic solver for ARC-AGI 2 tasks"
+authors = ["GlyphNotes AI <support@glyphnotes.ai>"]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.urls]
+Homepage = "https://example.com"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+addopts = "-ra"
