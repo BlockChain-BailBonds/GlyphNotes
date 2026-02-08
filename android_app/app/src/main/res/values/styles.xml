@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.BailBonds" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>
